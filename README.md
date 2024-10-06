@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 
 I am Yogendra G Mishra, an experienced technology and business leader with a focus on driving innovation and transformation in the IT, AI/ML, and software development sectors. With over three decades of experience across various industries, I have led teams to deliver cutting-edge solutions, streamline operations, and implement digital strategies that enhance efficiency and drive growth.
