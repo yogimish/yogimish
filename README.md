@@ -8,3 +8,5 @@ My career spans leadership roles in organizations like Visteon, Ford, Maruti, Du
 My technical expertise, combined with a deep understanding of business operations, makes me well-suited for driving initiatives at the intersection of technology and business strategy.
 
 Based in Chennai, I’m always keen to connect with like-minded professionals and explore collaboration opportunities. Let’s connect and build something great together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygmishra)
